@@ -1,0 +1,115 @@
+Datos	O
+del	O
+paciente	O
+.	O
+
+Nombre	O
+:	O
+Pedro	B-NOMBRE_SUJETO_ASISTENCIA
+.	O
+
+Apellidos	O
+:	O
+De	B-NOMBRE_SUJETO_ASISTENCIA
+Miguel	I-NOMBRE_SUJETO_ASISTENCIA
+Rivera	I-NOMBRE_SUJETO_ASISTENCIA
+.	O
+
+NHC	O
+:	O
+2569870	B-ID_SUJETO_ASISTENCIA
+.	O
+
+Domicilio	O
+:	O
+Calle	B-CALLE
+Carmen	I-CALLE
+Romero	I-CALLE
+,	I-CALLE
+23	I-CALLE
+,	I-CALLE
+1	I-CALLE
+D	I-CALLE
+.	O
+
+Localidad	O
+/	O
+Provincia	O
+:	O
+Madrid	B-TERRITORIO
+.	O
+
+CP	O
+:	O
+28035	B-TERRITORIO
+.	O
+
+Datos	O
+asistenciales	O
+.	O
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+10/10/1963	B-FECHAS
+.	O
+
+País	O
+:	O
+España	B-PAIS
+.	O
+
+Edad	O
+:	O
+53	B-EDAD_SUJETO_ASISTENCIA
+años	I-EDAD_SUJETO_ASISTENCIA
+Sexo	O
+:	O
+H	B-SEXO_SUJETO_ASISTENCIA
+.	O
+
+Fecha	O
+de	O
+Ingreso	O
+:	O
+17/06/2016	B-FECHAS
+.	O
+
+Médico	O
+:	O
+Estefanía	B-NOMBRE_PERSONAL_SANITARIO
+Romero	I-NOMBRE_PERSONAL_SANITARIO
+Selas	I-NOMBRE_PERSONAL_SANITARIO
+NºCol	O
+:	O
+28	B-ID_TITULACION_PERSONAL_SANITARIO
+28	I-ID_TITULACION_PERSONAL_SANITARIO
+20943	I-ID_TITULACION_PERSONAL_SANITARIO
+.	O
+
+Informe	O
+clínico	O
+del	O
+paciente	O
+:	O
+varón	B-SEXO_SUJETO_ASISTENCIA
+de	O
+53	B-EDAD_SUJETO_ASISTENCIA
+años	I-EDAD_SUJETO_ASISTENCIA
+sin	O
+antecedentes	O
+de	O
+interés	O
+que	O
+ingresa	O
+procedente	O
+de	O
+urgencias	O
+con	O
+un	O
+cuadro	O
+de	O
+tromboembolismo	O
+pulmonar	O
+.	O

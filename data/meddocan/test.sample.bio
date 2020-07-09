@@ -1,0 +1,129 @@
+Datos	O
+del	O
+paciente	O
+.	O
+
+Nombre	O
+:	O
+Ignacio	B-NOMBRE_SUJETO_ASISTENCIA
+.	O
+
+Apellidos	O
+:	O
+Rico	B-NOMBRE_SUJETO_ASISTENCIA
+Pedroza	I-NOMBRE_SUJETO_ASISTENCIA
+.	O
+
+NHC	O
+:	O
+5467980	B-ID_SUJETO_ASISTENCIA
+.	O
+
+Domicilio	O
+:	O
+Av	B-CALLE
+.	I-CALLE
+Beniarda	I-CALLE
+,	I-CALLE
+13	I-CALLE
+.	O
+
+Localidad	O
+/	O
+Provincia	O
+:	O
+Valencia	B-TERRITORIO
+.	O
+
+CP	O
+:	O
+46271	B-TERRITORIO
+.	O
+
+Datos	O
+asistenciales	O
+.	O
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+11/02/1970	B-FECHAS
+.	O
+
+País	O
+:	O
+España	B-PAIS
+.	O
+
+Edad	O
+:	O
+46	B-EDAD_SUJETO_ASISTENCIA
+años	I-EDAD_SUJETO_ASISTENCIA
+Sexo	O
+:	O
+H	B-SEXO_SUJETO_ASISTENCIA
+.	O
+
+Fecha	O
+de	O
+Ingreso	O
+:	O
+28/05/2016	B-FECHAS
+.	O
+
+Médico	O
+:	O
+Ignacio	B-NOMBRE_PERSONAL_SANITARIO
+Rubio	I-NOMBRE_PERSONAL_SANITARIO
+Tortosa	I-NOMBRE_PERSONAL_SANITARIO
+Servicio	O
+NºCol	O
+:	O
+46	B-ID_TITULACION_PERSONAL_SANITARIO
+28	I-ID_TITULACION_PERSONAL_SANITARIO
+52938	I-ID_TITULACION_PERSONAL_SANITARIO
+.	O
+
+Informe	O
+clínico	O
+del	O
+paciente	O
+:	O
+Paciente	O
+de	O
+46	B-EDAD_SUJETO_ASISTENCIA
+años	I-EDAD_SUJETO_ASISTENCIA
+que	O
+consultó	O
+por	O
+dolor	O
+a	O
+nivel	O
+de	O
+hipogastrio	O
+,	O
+eyaculación	O
+dolorosa	O
+,	O
+hemospermia	O
+y	O
+sensación	O
+de	O
+peso	O
+a	O
+nivel	O
+testicular	O
+atribuido	O
+hasta	O
+entonces	O
+a	O
+varicocele	O
+derecho	O
+ya	O
+conocido	O
+desde	O
+hacía	O
+un	O
+año	O
+.	O
